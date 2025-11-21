@@ -16,15 +16,20 @@ We work with a wide variety of tools and technologies, including:
 - **Languages:** Python, TypeScript, Golang  
 - **Frameworks:** Next.js, Node.js  
 - **Platforms:** Google Cloud Platform, Docker, Kubernetes  
-- **AI/ML:** MiniLM, Contrastive Learning Model
+- **AI/ML:** MiniLM, BERT, Contrastive Learning Model
 
 ---
 
 ## Current Projects:
-- Tahoe: SOTA Contrastive learning AI Prompt Safety Ranking model, beat llamaguard and liongaurd
+- Tahoe: SOTA Contrastive learning AI Prompt Safety Ranking model trained on MiniLM embeddings, beat llamaguard
 - Auburn: OCR+ tooling for prompt safety
-- Eureka: Chrome Extension for using tools
+- LosGatos: Contrastive learning AI Prompt Safety Ranking model trained on BERT embeddings
+- Dana: Multimodal Model with optimised embeddings
 
+---
+
+## Completed/ Paused Projects:
+- Eureka: Chrome Extension for using tools
 ---
 
 ## 🤝 Get Involved
